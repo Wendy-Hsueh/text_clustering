@@ -1,18 +1,18 @@
-# text_clustering
+# Text_clustering
 
-> 文本聚类
+> 文本聚類
 
-## 目录
+## 目錄
 - data
-    - 存放数据
-- Kmeans
-    - 基于KMeans的无监督中文文本聚类
+    - 存放數據
+- K-means
+    - 基於 K-means 的非監督式中文文本聚類
   
 - DBSCAN
-    - 基于DBSCAN的无监督中文文本聚类
+    - 基於 DBSCAN 的非監督式中文文本聚類
   
 - LatentDirichletAllocation
-    - 基于LDA的无监督文本聚类
+    - 基於 LDA 的非監督式中文文本聚類
     
 - Single_Pass
-    - 基于single pass 策略进行聚类，不需要事先设置类别数
+    - 基於 single pass 策略進行聚類，不需要事先設置類別數
